@@ -1,0 +1,17 @@
+Dimentions:
+
+Board square : 6 x 6 cm
+Square spacing: 0.2 mm wide, 0.2 mm deep groove
+Board margin: 2 cm
+Board height 3 cm
+
+Pieces:
+
+    king base: 4.5 cm diam
+    Pawn base: 3 cm diam
+    Other pieces: 4 cm diam
+
+    King height: 9.5 cm
+    Rest follow the reference
+
+
